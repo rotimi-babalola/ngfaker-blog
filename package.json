@@ -1,0 +1,27 @@
+{
+  "name": "ngfaker-blog",
+  "version": "1.0.0",
+  "description": "Documentation for the ng-faker package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotimi-babalola/ngfaker-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "ng-faker"
+  ],
+  "authors": [
+    "Rotimi Babalola",
+    "Oyindamola Subair",
+    "Bolaji Olajide"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rotimi-babalola/ngfaker-blog/issues"
+  },
+  "homepage": "https://github.com/rotimi-babalola/ngfaker-blog#readme"
+}
